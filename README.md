@@ -26,7 +26,7 @@
 
 <!--Intro start-->
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **misentaloic@gmail.com**
   
 <!--Intro end-->
 
@@ -38,9 +38,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,c,cs,css,scala,discord,docker,figma,github,html,java,js,lua,unity,linux,mysql,py,pytorch,ableton,pr,ps,ai,vscode&perline=14" />
 </p>
 
 

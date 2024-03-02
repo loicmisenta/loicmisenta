@@ -37,7 +37,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,c,cs,css,scala,discord,docker,figma,github,html,java,js,lua,unity,linux,mysql,arduino,py,pytorch,ableton,pr,ps,ai,vscode&perline=14" />
+  <img src="https://skillicons.dev/icons?i=git,c,cs,css,scala,discord,docker,figma,github,html,java,js,lua,unity,linux,mysql,arduino,py,pytorch,ableton,pr,ps,ai,vscode,kotlin&perline=14" />
 </p>
 
 <!--profile visit count-->

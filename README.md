@@ -18,7 +18,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Third-year Computer Science Bachelor's student at EPFL</h2></summary>
+    <summary><h2 style="display: inline-block">Data Science Master's student at EPFL</h2></summary>
   </ul>
 </div>
 
